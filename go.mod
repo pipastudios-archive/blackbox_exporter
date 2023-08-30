@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/exporter-toolkit v0.5.1
 	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 go 1.13
